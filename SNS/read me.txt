@@ -1,0 +1,1 @@
+To send out a notification via Email, SMS.. when an event occurs.
